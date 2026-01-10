@@ -2,7 +2,7 @@
 
 Exemple d'hébergement d'un site statique avec GitHub Pages
 - Créer un fichier HTML
-- Utiliser GitLab Pages
+- Utiliser GitHub Pages
 
 ## URL d'hébergement
 URL GitHub : https://rachelelisabethhoareau.github.io/uel106/
